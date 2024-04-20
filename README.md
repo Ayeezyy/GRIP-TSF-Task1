@@ -21,8 +21,6 @@ To run the code in the Jupyter Notebook, the following libraries and tools are r
 - Matplotlib
 - Jupyter Notebook
 
-Install these dependencies using `pip install -r requirements.txt` before running the notebook.
-
 ## Dataset
 
 The dataset contains two columns: "Hours" (number of study hours) and "Scores" (exam scores). This dataset was used to train and test the linear regression model.
