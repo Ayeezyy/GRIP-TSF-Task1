@@ -8,8 +8,7 @@ The task involved building a linear regression model to predict the scores of st
 
 ## Files Included
 
-- **linear_regression_model.ipynb**: Jupyter Notebook containing the Python code for data preprocessing, model training, evaluation, and prediction.
-- **student_scores.csv**: CSV file containing the dataset used for training and testing the model.
+- **Task-1_Linear_Regression.ipynb**: Jupyter Notebook containing the Python code for data preprocessing, model training, evaluation, and prediction.
 
 ## Requirements
 
